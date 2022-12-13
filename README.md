@@ -4,7 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Introduction 
 
-Front end project to [Backend with Spring](https://github.com/ThadeuJose/spring-angular-reddit-clone)
+Front end project to [Backend with Spring](https://github.com/ThadeuJose/spring-angular-reddit-clone).
+
+From [tutorial](https://www.youtube.com/watch?v=DKlTBBuc32c).
 
 ## Development serve in Linux 
 
